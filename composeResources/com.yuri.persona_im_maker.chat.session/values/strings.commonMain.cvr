@@ -1,4 +1,8 @@
 version:0
+string|background_particle_none|Tm9uZQ==
+string|background_particle_sakura|U2FrdXJh
+string|background_particle_snowflake|U25vd2ZsYWtl
+string|background_particle|QmFja2dyb3VuZCBQYXJ0aWNsZQ==
 string|btn_add_favorite_sender|QWRkIEZhdm9yaXRlIFNlbmRlcg==
 string|btn_cancel|Q2FuY2Vs
 string|btn_delete|RGVsZXRl
@@ -11,6 +15,7 @@ string|btn_new|TmV3
 string|btn_remove_favorite_sender|UmVtb3ZlIEZhdm9yaXRlIFNlbmRlcg==
 string|btn_save_entry|U2F2ZQ==
 string|btn_save|U2F2ZQ==
+string|chat_session_editor|Q2hhdCBTZXNzaW9uIEVkaXRvcg==
 string|chat_session_name|U2Vzc2lvbiBOYW1l
 string|dialog_title_edit_entry|RWRpdCBDb252ZXJzYXRpb24=
 string|dialog_title_new_entry|TmV3IENvbnZlcnNhdGlvbg==
