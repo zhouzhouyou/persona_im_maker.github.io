@@ -5,6 +5,7 @@ string|background_particle_snowflake|6Zuq6Iqx
 string|background_particle|6IOM5pmv57KS5a2Q
 string|btn_add_favorite_sender|5re75Yqg5pS26JeP5Y+R6YCB6ICF
 string|btn_cancel|5Y+W5raI
+string|btn_delete_all|5riF56m6
 string|btn_delete|5Yig6Zmk
 string|btn_edit|57yW6L6R
 string|btn_exit_management_mode|6YCA5Ye6566h55CG5qih5byP
@@ -30,6 +31,7 @@ string|import_session_success|5a+85YWl5Lya6K+d5oiQ5Yqf
 string|label_emotion_marker|5oOF5oSf5qCH6K6w
 string|label_json_string|SlNPTg==
 string|label_message_content|5a+56K+d5YaF5a65
+string|label_message_options|5a+56K+d6YCJ6aG5
 string|label_sender|5Y+R6YCB6ICF
 string|list_title_conversations|5a+56K+d5YiX6KGo
 string|paste_previous_exported_json_here|57KY6LS05LmL5YmN5a+85Ye655qESlNPTuWtl+espuS4sg==

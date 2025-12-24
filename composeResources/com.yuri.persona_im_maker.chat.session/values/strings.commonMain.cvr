@@ -5,6 +5,7 @@ string|background_particle_snowflake|U25vd2ZsYWtl
 string|background_particle|QmFja2dyb3VuZCBQYXJ0aWNsZQ==
 string|btn_add_favorite_sender|QWRkIEZhdm9yaXRlIFNlbmRlcg==
 string|btn_cancel|Q2FuY2Vs
+string|btn_delete_all|RGVsZXRlIEFsbA==
 string|btn_delete|RGVsZXRl
 string|btn_edit|RWRpdA==
 string|btn_exit_management_mode|RXhpdCBNYW5hZ2VtZW50IE1vZGU=
@@ -30,6 +31,7 @@ string|import_session_success|SW1wb3J0IHNlc3Npb24gc3VjY2Vzcw==
 string|label_emotion_marker|RW1vdGlvbiBNYXJrZXI=
 string|label_json_string|SlNPTg==
 string|label_message_content|TWVzc2FnZSBDb250ZW50
+string|label_message_options|TWVzc2FnZSBPcHRpb25z
 string|label_sender|U2VuZGVy
 string|list_title_conversations|Q29udmVyc2F0aW9uIExpc3Q=
 string|paste_previous_exported_json_here|UGFzdGUgcHJldmlvdXMgZXhwb3J0ZWQgSlNPTiBoZXJl
